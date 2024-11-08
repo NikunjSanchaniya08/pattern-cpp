@@ -14,7 +14,7 @@ using namespace std;
 int main()
 {
     // top
-    int n = 8, r, c, s;
+    int n = 5, r, c, s;
 
     for (r = 1; r <= n; r++)
     {
